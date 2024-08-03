@@ -7,7 +7,7 @@ This is a classic Snake game implemented using Pygame. The player controls a sna
 - **Playable Snake Game:** Navigate the snake using arrow keys.
 - **Growing Snake:** Each time the snake eats food, it grows longer.
 - **Game Over Screen:** Displays when the snake hits the border or itself, with options to retry or quit.
-- **Food Placement:** Ensures food does not appear too close to the borders.
+- **Food Placement:** Ensures food does not appear at random places inside the play-screen.
 
 ## How to play the Game? 
 
