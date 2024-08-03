@@ -20,4 +20,4 @@ Make sure you have Python and PyGame installed then copy the code to your local 
 
 ## Game play
 
-![Gameplay GIF](snake_game.gif)
+![Gameplay GIF](output.gif)
