@@ -14,9 +14,9 @@ This is a classic Snake game implemented using Pygame. The player controls a sna
 Make sure you have Python and PyGame installed then copy the code to your local computer and run it. 
 
 **Controls:**
-Arrow Keys: Move the snake (Left, Right, Up, Down)
-R: Retry after game over
-X: Quit the game
+- Arrow Keys: Move the snake (Left, Right, Up, Down)
+- R: Retry after game over
+- X: Quit the game
 
 ## Game play
 
